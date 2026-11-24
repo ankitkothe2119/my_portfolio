@@ -1,0 +1,54 @@
+{
+  "name": "Ankit Kothe",
+  "headline": "Software Engineering | Backend Development | Networking | Generative AI",
+  "location": "Indore, Madhya Pradesh",
+  "summary": "Software engineer with experience in website development, hardware and network troubleshooting, and Generative AI applications. Interested in backend systems, cloud computing and systems engineering.",
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "org": "Sarthi Shiksha Rosan Seva Samit, Indore",
+      "period": "Aug 2025 – Nov 2026",
+      "points": [
+        "Developed and maintained an NGO statistics website, keeping information current.",
+        "Applied Generative AI and RAG technologies in software development activities."
+      ]
+    },
+    {
+      "role": "Hardware & Network Engineer",
+      "org": "SCSIT, DAVV, Indore",
+      "period": "Dec 2025 – Jun 2026",
+      "points": [
+        "Installed and maintained desktop hardware, Windows, drivers and software for lab operations.",
+        "Diagnosed LAN and hardware issues; configured IP addresses, routers and switches.",
+        "Provided technical support and preventive maintenance for laboratory systems."
+      ]
+    },
+    {
+      "role": "Software Engineer Intern",
+      "org": "Code-Clause",
+      "period": "Dec 2023 – 2024",
+      "points": [
+        "Designed and deployed a product landing page using React, Vite and CSS.",
+        "Implemented responsive UI components using React, HTML and CSS."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA), Data Analytics",
+      "school": "Devi Ahilya Vishwavidyalaya, Indore",
+      "period": "Sep 2024 – Feb 2026"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "school": "Devi Ahilya Vishwavidyalaya, Indore",
+      "period": "Sep 2021 – May 2024"
+    }
+  ],
+  "skills": {
+    "Languages": ["C", "C++", "Python", "Java"],
+    "AI & Cloud": ["Generative AI", "RAG", "CloudSim", "Docker", "PostgreSQL", "Redis"],
+    "Web": ["React", "Vite", "HTML", "CSS"],
+    "Networking": ["LAN", "TCP/IP", "IP configuration", "Routers", "Switches", "Windows troubleshooting"]
+  }
+}
